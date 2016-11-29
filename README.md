@@ -2,7 +2,7 @@
 Created by Sebastián Jiménez T.
 ----------------------------------------------------------------------------------------------------------------------------
 ############################################################################################################################
-The code presented in this repository are plugins for Asterisk's monitoring with Nagios, these goes from monitoring calls which are presenting packet lost to monitoring and notification of long calls which can generate high costs (mainly if they are international calls) or asterisk channels which are not hanging up.
+The code presented in this repository are plugins for Asterisk's monitoring with Nagios, these go from monitoring calls which are presenting packet lost to monitoring and notification of long calls which can generate high costs (mainly if they are international calls) or asterisk channels which are not hanging up.
 
 Aditionally in the TOOLS folder there is a tool to termiante any asterisk call just introducing the desire extension.
 
